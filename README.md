@@ -66,3 +66,7 @@ ISC
 ## 👨‍💻 Autor
 
 Samuel Cotinguiba
+
+## 🎓 Créditos
+
+Projeto desenvolvido como parte do curso de Blockchain da [Digital Innovation One (DIO)](https://www.dio.me/).
